@@ -1,3 +1,7 @@
+VABIELO KEANU STARWORLD
+2902728352
+
+
 **Part B — Implementation of 6 Design Patterns from GL (60 points)**
 
 According to the slides, there are only 5 design patterns. So, I will only be talking about the 5 discussed on the slides.
@@ -66,3 +70,16 @@ According to the slides, there are only 5 design patterns. So, I will only be ta
    <img width="939" height="563" alt="image" src="https://github.com/user-attachments/assets/e7da31c4-0bcd-4778-a87a-aefe71c50dd2" />
 
    I implemented a data presentation design pattern in the form of structured service cards. A data presentation pattern fits my feature because each card arranges the title and short description into a clear       hierarchy that supports quick scanning. It solves the HCI problem where users waste time interpreting unstructured text with no visual cues. The expected user improvement is quicker understanding of each         service and reduced cognitive load when comparing options.
+
+
+
+
+
+**Part C — Evaluation Plan (similar to Week 10 assignment) (20 points)**
+
+<img width="1187" height="719" alt="image" src="https://github.com/user-attachments/assets/334ddf90-7005-4cf6-8079-5f106ab7ead4" />
+
+
+
+Repository Link:
+Live link:
