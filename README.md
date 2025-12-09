@@ -82,4 +82,7 @@ According to the slides, there are only 5 design patterns. So, I will only be ta
 
 
 Repository Link:
+https://github.com/TasHijau/HCI-Quiz-2
+
 Live link:
+https://tashijau.github.io/HCI-Quiz-2/
